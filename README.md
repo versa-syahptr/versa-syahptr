@@ -3,7 +3,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=versa-syahptr&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=versa-syahptr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=versa-syahptr&theme=tokyonight)
 
 <!--
 **versa-syahptr/versa-syahptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
